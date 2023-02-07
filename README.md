@@ -9,9 +9,20 @@
   
 
 ![ Java ](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![ Python ](https://img.shields.io/badge/-Python-6DB33F?style=flat-square&logo=python)
+![ Python ](https://img.shields.io/badge/-Python-FFEA20?style=flat-square&logo=python)
 ![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![ Ruby ](https://img.shields.io/badge/-Ruby-CC6699?style=flat-square&logo=ruby&logoColor=white)
+![ Ruby ](https://img.shields.io/badge/-Ruby-F55058?style=flat-square&logo=ruby&logoColor=white)
+![ Ableton ](https://img.shields.io/badge/-Ableton-00425A?style=flat-square&logo=ableton&logoColor=white)
+![ Sonic-pi ](https://img.shields.io/badge/-Sonic_pi-FF78F0?style=flat-square&logo=sonic-pi&logoColor=white)
+![ P5js ](https://img.shields.io/badge/-p5js-F48484?style=flat-square&logo=p5js&logoColor=white)
+![ Touchdesigner ](https://img.shields.io/badge/-Touchdesigner-658864?style=flat-square&logo=touchdesigner)
+![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![ IntelliJ ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![ PyCharm ](https://img.shields.io/badge/-PyCharm-F0FF42?style=flat-square&logo=pycharm)
+![ VSCode ](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+
 
       
 <!--
