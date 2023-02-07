@@ -21,6 +21,7 @@
 ![ PyCharm ](https://img.shields.io/badge/-PyCharm-F0FF42?style=flat-square&logo=pycharm)
 ![ VSCode ](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![ Atom ](https://img.shields.io/badge/-Atom-A8E890?style=flat-square&logo=atom&logoColor=white)
+![ Arduino ](https://img.shields.io/badge/-Arduino-8BBCCC?style=flat-square&logo=arduino&logoColor=white)
 
 
 
