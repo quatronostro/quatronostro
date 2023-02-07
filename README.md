@@ -1,28 +1,30 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk;I+am+a+live-coder+at+Agorave+Istanbul.;I+love+Sonic-Pi.;I+love+learning.;I+love+open+source.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Agorave+Istanbul.;I+love+Sonic-Pi.;I+love+learning.;I+love+open+source.;&center=true&width=500&height=50"></a>
 </p>
 
 
 ## <p>Languages and Tools:</p>
+
 <p>
   
 
-![ JAVA ](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![ Python ](https://img.shields.io/badge/-Python-FFEA20?style=flat-square&logo=python)
-![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![ Ruby ](https://img.shields.io/badge/-Ruby-F55058?style=flat-square&logo=ruby)
-![ Ableton ](https://img.shields.io/badge/-Ableton-00425A?style=flat-square&logo=ableton)
-![ Sonic-pi ](https://img.shields.io/badge/-Sonic_pi-FF78F0?style=flat-square&logo=sonic-pi)
-![ P5js ](https://img.shields.io/badge/-p5.js-F48484?style=flat-square&logo=p5js)
-![ Touchdesigner ](https://img.shields.io/badge/-Touchdesigner-658864?style=flat-square&logo=touchdesigner)
-![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ IntelliJ ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![ PyCharm ](https://img.shields.io/badge/-PyCharm-F0FF42?style=flat-square&logo=pycharm&logoColor=black)
-![ VSCode ](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![ Atom ](https://img.shields.io/badge/-Atom-A8E890?style=flat-square&logo=atom&logoColor=black)
-![ Arduino ](https://img.shields.io/badge/-Arduino-8BBCCC?style=flat-square&logo=arduino)
+![Java - _Basic_](https://img.shields.io/badge/Java-Basic-F8981D?style=for-the-badge&logo=java&labelColor=4E7F9F&logoColor=white) 
+![Python - _Basic_](https://img.shields.io/badge/Python-Basic-FECE3E?style=for-the-badge&logo=python&labelColor=3870A1&logoColor=white) 
+![HTML - _Good_](https://img.shields.io/badge/HTML-Basic-E96228?style=for-the-badge&logo=html5&labelColor=DD4B25&logoColor=white) 
+![Ruby - _Basic_](https://img.shields.io/badge/Ruby-Basic-F55058?style=for-the-badge&logo=ruby&labelColor=E7305B&logoColor=white) 
+![Ableton - _Good_](https://img.shields.io/badge/Ableton-Good-00425A?style=for-the-badge&logo=ableton&labelColor=white&logoColor=white) 
+![Sonic-pi - _Good_](https://img.shields.io/badge/Sonic_Pi-Good-FF78F0?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white)  
+![P5.Js - _Basic_](https://img.shields.io/badge/P5.Js-Basic-F48484?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white) 
+![Touchdesigner - _Good_](https://img.shields.io/badge/Touchdesigner-Good-658864?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white) 
+![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA%20IDEA-black?style=for-the-badge&logo=intellij-idea&labelColor=1b1b1b&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=Pycharm&labelColor=1b1b1b&logoColor=white) 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=1b1b1b&logoColor=white) 
+![Atom](https://img.shields.io/badge/-Atom-A8E890?style=for-the-badge&logo=atom&labelColor=1b1b1b&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-8BBCCC?style=for-the-badge&logo=arduino&labelColor=1b1b1b&logoColor=white) 
 
+</p>
 
 
 
