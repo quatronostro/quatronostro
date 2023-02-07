@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Agorave+Istanbul.;I+love+Sonic-Pi.;I+love+learning.;I+love+open+source.;&center=true&width=500&height=50"></a>
 </p>
-
+<br />
 
 ## <p>Languages and Tools:</p>
 
@@ -28,7 +28,7 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quatronostro&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=06283D&title_color=BFEAF5&text_color=EAFDFC&icon_color=fff" alt="quatronostro" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quatronostro&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=06283D&title_color=EAFDFC&text_color=EAFDFC&icon_color=fff" alt="quatronostro" /></p>
 
       
 <!--
