@@ -14,9 +14,9 @@
 ![HTML - _Good_](https://img.shields.io/badge/HTML-Basic-E96228?style=for-the-badge&logo=html5&labelColor=DD4B25&logoColor=white) 
 ![Ruby - _Basic_](https://img.shields.io/badge/Ruby-Basic-F55058?style=for-the-badge&logo=ruby&labelColor=E7305B&logoColor=white) 
 ![Ableton - _Good_](https://img.shields.io/badge/Ableton-Good-00425A?style=for-the-badge&logo=ableton&labelColor=white&logoColor=white) 
-![Sonic-pi - _Good_](https://img.shields.io/badge/Sonic_Pi-Good-FF78F0?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white)  
+![Sonic-pi - _Good_](https://img.shields.io/badge/Sonic_Pi-Good-FF78F0?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white) 
 ![P5.Js - _Basic_](https://img.shields.io/badge/P5.Js-Basic-F48484?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white) 
-![Touchdesigner - _Good_](https://img.shields.io/badge/Touchdesigner-Good-658864?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white)  
+![Touchdesigner - _Good_](https://img.shields.io/badge/Touchdesigner-Good-658864?style=for-the-badge&logo=ableton&labelColor=33425B&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white) 
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA%20IDEA-black?style=for-the-badge&logo=intellij-idea&labelColor=1b1b1b&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=Pycharm&labelColor=1b1b1b&logoColor=white) 
