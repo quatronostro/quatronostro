@@ -28,7 +28,7 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quatronostro&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="quatronostro" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quatronostro&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=06283D&title_color=BFEAF5&text_color=EAFDFC&icon_color=fff" alt="quatronostro" /></p>
 
       
 <!--
