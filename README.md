@@ -1,12 +1,13 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Agorave+Istanbul.;I+love+Sonic-Pi.;I+love+learning.;I+love+open+source.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Agorave+Istanbul.;I+love+Sonic-Pi.;I+love+learning.;I+love+open+source.;&center=true&width=500&height=150"></a>
 </p>
 <br />
 
 ## <p>Languages and Tools:</p>
 
-<p>
+<p align="center">
+
   
 
 ![Java - _Basic_](https://img.shields.io/badge/Java-Basic-F8981D?style=for-the-badge&logo=java&labelColor=4E7F9F&logoColor=white) 
@@ -23,6 +24,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=1b1b1b&logoColor=white) 
 ![Atom](https://img.shields.io/badge/-Atom-A8E890?style=for-the-badge&logo=atom&labelColor=1b1b1b&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-8BBCCC?style=for-the-badge&logo=arduino&labelColor=1b1b1b&logoColor=white) 
+
 
 </p>
 
