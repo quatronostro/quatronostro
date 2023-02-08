@@ -13,7 +13,7 @@
 ![HTML - _Good_](https://img.shields.io/badge/HTML-Basic-E96228?style=for-the-badge&logo=html5&labelColor=DD4B25&logoColor=white)
 ![Ruby - _Basic_](https://img.shields.io/badge/Ruby-Basic-F55058?style=for-the-badge&logo=ruby&labelColor=E7305B&logoColor=white) 
 ![Ableton - _Good_](https://img.shields.io/badge/Ableton-Good-00425A?style=for-the-badge&logo=ableton&labelColor=white&logoColor=white) 
-![Sonic-pi - _Good_](https://img.shields.io/badge/Sonic_Pi-Good-33425B?style=for-the-badge&labelColor=FF78F0&logoColor=white) 
+![Sonic-pi - _Expert_](https://img.shields.io/badge/Sonic_Pi-Expert-33425B?style=for-the-badge&labelColor=FF78F0&logoColor=white) 
 ![P5.Js - _Basic_](https://img.shields.io/badge/P5.Js-Basic-33425B?style=for-the-badge&labelColor=F48484&logoColor=white) 
 ![Touchdesigner - _Good_](https://img.shields.io/badge/Touchdesigner-Good-33425B?style=for-the-badge&labelColor=658864&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white) 
