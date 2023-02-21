@@ -27,6 +27,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=tokyonight)](https://quatronostro-readme-stats.vercel.app)
+
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quatronostro&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=06283D&title_color=EAFDFC&text_color=EAFDFC&icon_color=fff" alt="quatronostro" /></p>
 
