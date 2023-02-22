@@ -29,5 +29,5 @@
 
 ## <p>Stats:</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=tokyonight)](https://quatronostro-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark)](https://quatronostro-readme-stats.vercel.app)
 
