@@ -8,7 +8,7 @@
 
 <p align="center">
 
-![Java - _Basic_](https://img.shields.io/badge/Java-Basic-F8981D?style=for-the-badge&logo=java&labelColor=4E7F9F&logoColor=white) 
+![Java - _Good_](https://img.shields.io/badge/Java-Good-F8981D?style=for-the-badge&logo=java&labelColor=4E7F9F&logoColor=white) 
 ![Python - _Basic_](https://img.shields.io/badge/Python-Basic-FECE3E?style=for-the-badge&logo=python&labelColor=3870A1&logoColor=white)
 ![HTML - _Good_](https://img.shields.io/badge/HTML-Good-E96228?style=for-the-badge&logo=html5&labelColor=DD4B25&logoColor=white)
 ![Ruby - _Basic_](https://img.shields.io/badge/Ruby-Basic-F55058?style=for-the-badge&logo=ruby&labelColor=E7305B&logoColor=white) 
