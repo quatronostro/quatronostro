@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Algorave+Istanbul.;I+like+Testing.;I+like+learning.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Algorave+Istanbul.;&center=true&width=500&height=50"></a>
 </p>
 <br />
 
