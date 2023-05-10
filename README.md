@@ -4,7 +4,26 @@
 </p>
 <br />
 
-## <p>Languages and Tools:</p>
+# Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+
+<!-- ## <p>Languages and Tools:</p>
 
 <p align="center">
 
@@ -24,7 +43,7 @@
 ![Atom](https://img.shields.io/badge/-Atom-A8E890?style=for-the-badge&logo=atom&labelColor=1b1b1b&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-8BBCCC?style=for-the-badge&logo=arduino&labelColor=1b1b1b&logoColor=white) 
 
-</p>
+</p> -->
 
 <br />
 
