@@ -15,12 +15,14 @@
 [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
 
 
 <!-- ## <p>Languages and Tools:</p>
