@@ -56,3 +56,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark)](https://quatronostro-readme-stats.vercel.app)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=quatronostro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
