@@ -8,8 +8,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
