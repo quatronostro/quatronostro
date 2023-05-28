@@ -3,7 +3,7 @@
   <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Algorave+Istanbul.;&center=true&width=500&height=50"></a>
 </p>
 <p align="left">
-  I am a versatile person with a diverse background. After finishing my studies at the conservatory, I have worked in different industries. Since 2019, I have been focusing on creative coding. I have performed in many concerts and conducted workshops on live coding music with the Algorave Istanbul team. In recent years, I have also been working on software test automation. I have knowledge of frameworks, test strategies, as well as Java, Selenium, JUnit, and TestNG.
+  I am a versatile person with a diverse background. After finishing my studies at the conservatory, I have worked in different industries. Since 2019, I have been focusing on creative coding. I have performed in many concerts and conducted workshops on live coding music with the Algorave Istanbul team. In recent years, I have also been working on software test automation. I have knowledge of frameworks, test strategies, as well as Java, Selenium, JUnit, TestNG and Cucumber.
 
 I have a strong passion for learning and believe that there are no limits to acquiring knowledge. I am always eager to explore new things and stay updated in the field.
 
@@ -15,24 +15,25 @@ Feel free to connect with me to discuss how we can collaborate.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![html](https://skillicons.dev/icons?i=html)](html)
+[![Css](https://skillicons.dev/icons?i=css)](css)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
+[![Gherkin](https://skillicons.dev/icons?i=gherkin)](https://cucumber.io/docs/gherkin/)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
+[![Intellij](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![VScode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Visual_Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Atom](https://skillicons.dev/icons?i=atom)](Atom)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Ableton](https://skillicons.dev/icons?i=ableton)](https://www.ableton.com/)
 
 
 <!-- ## <p>Languages and Tools:</p>
