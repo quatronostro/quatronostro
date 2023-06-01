@@ -3,7 +3,7 @@
   <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Algorave+Istanbul.;&center=true&width=500&height=50"></a>
 </p>
 <p align="left">
-  I am a versatile person with a diverse background. After finishing my studies at the conservatory, I have worked in different industries. Since 2019, I have been focusing on creative coding. I have performed in many concerts and conducted workshops on live coding music with the Algorave Istanbul team. In recent years, I have also been working on software test automation. I have knowledge of frameworks, test strategies, as well as Java, Selenium, JUnit, TestNG and Cucumber.
+  I am a versatile person with a diverse background. After finishing my studies at the conservatory, I have worked in different industries. Since 2019, I have been focusing on creative coding. I have performed in many concerts and conducted workshops on live coding music with the Algorave Istanbul team. In recent years, I have also been working on software test automation. I have knowledge of frameworks, test strategies, as well as Java, Selenium, JUnit, TestNG, JDBC and Cucumber.
 
 I have a strong passion for learning and believe that there are no limits to acquiring knowledge. I am always eager to explore new things and stay updated in the field.
 
