@@ -1,16 +1,21 @@
-
 <p align="center">
   <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Berke+Baramuk.;I+am+a+live-coder+at+Algorave+Istanbul.;&center=true&width=500&height=50"></a>
 </p>
-<p align="left">
-  I am a versatile person with a diverse background. After finishing my studies at the conservatory, I have worked in different industries. Since 2019, I have been focusing on creative coding. I have performed in many concerts and conducted workshops on live coding music with the Algorave Istanbul team. In recent years, I have also been working on software test automation. I have knowledge of frameworks, test strategies, as well as Java, Selenium, JUnit, TestNG, JDBC and Cucumber.
 
-I have a strong passion for learning and believe that there are no limits to acquiring knowledge. I am always eager to explore new things and stay updated in the field.
 
-If you are looking for a motivated and adaptable professional with expertise in music and software testing, I would be delighted to discuss potential opportunities and contribute to the success of your organization.
+# Hi there, I'm Berke Baramuk 👋
 
-Feel free to connect with me to discuss how we can collaborate.
-</p>
+I'm a versatile and adaptable professional with a diverse background in music and software testing. I have a strong passion for learning and exploring new things.
+
+## About me
+
+- 🔭 I'm currently working on software test automation projects using various tools and frameworks
+- 🎵 I'm also co-founder of Algorave Istanbul, a community that explores live coding music and organizes performances and workshops
+- 🌱 I'm currently learning more about software testing methodologies and best practices
+- 💬 Ask me about anything related to music or software testing
+- 📫 How to reach me: berke.bar@hotmail.com or linkedin.com/in/berke-baramuk
+- ⚡ Fun fact: I play the oboe and the saxophone
+
 <br />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
@@ -63,6 +68,8 @@ Feel free to connect with me to discuss how we can collaborate.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark#center)](https://quatronostro-readme-stats.vercel.app)
+
+[![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![quatronostro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=quatronostro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=false&hide_border=true)
