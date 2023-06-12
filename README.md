@@ -28,6 +28,7 @@ I'm a versatile and adaptable professional with a diverse background in music an
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
 [![Gherkin](https://skillicons.dev/icons?i=gherkin)](https://cucumber.io/docs/gherkin/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![Intellij](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![VScode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
