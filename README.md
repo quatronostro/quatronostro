@@ -44,7 +44,6 @@ I'm a versatile and adaptable professional with a diverse background in music an
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark#center)](https://quatronostro-readme-stats.vercel.app)
-
 [![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
