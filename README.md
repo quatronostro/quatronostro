@@ -4,7 +4,7 @@
 
 # Hi there, I'm Berke Baramuk 👋
 
-I'm a versatile and adaptable professional with a diverse background in music and software testing. I have a strong passion for learning and exploring new things.
+I'm a versatile and adaptable professional with a diverse background in music and software testing. I have a strong passion for learning and exploring new things. Currently, I'm working as a QA Tester at <a href="https://www.coinpass.com/">coinpass.com.</a>
 
 ## About me
 
@@ -46,6 +46,9 @@ I'm a versatile and adaptable professional with a diverse background in music an
 
 [![Berke's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark#center)](https://quatronostro-readme-stats.vercel.app)
+
+
+
 
 <!--
 ![quatronostro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=quatronostro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=false&hide_border=true)
