@@ -13,7 +13,7 @@ I'm a versatile and adaptable professional with a diverse background in music an
 - 🌱 I'm currently learning more about software testing methodologies and best practices
 - 💬 Ask me about anything related to music or software testing
 - 📫 How to reach me: berke.bar@hotmail.com or linkedin.com/in/berke-baramuk
-- ⚡ Fun fact: I play the oboe and the saxophone
+- ⚡ Fun fact: I play oboe and saxophone
 <br />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
